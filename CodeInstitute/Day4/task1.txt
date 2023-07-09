@@ -1,0 +1,22 @@
+Welcome to Lesson 4 - Challenge 1
+In the last two challenges, you added the following to your recipe page:
+The recipe name
+The recipe description
+The ingredients heading
+The list of ingredients
+The preparation heading
+The preparation steps
+The copyright text
+All that's left in terms of content is the adding of a recipe image to the page.
+Your challenge is to do just that.
+Result
+Your result should look similar to the image below (but with the option using your own image content):
+
+Steps
+Within the < header > element remove image the placeholder text and add an <img> element. Set its src attribute value to " https://codeinstitute.s3-eu-west-1.amazonaws.com/5DCC/images/Content/oSVKMED.jpg ",
+Or you can choose your own image. If you do, please make sure the image has a .png or .jpg file extension name
+Give < img > element an alt attribute. The alt attribute should be a short description of the image. Eg. alt="A man drinking tea" , The inclusion of the alt attribute helps screen readers determine content meaning for sight-impaired users
+Tips
+If you're stuck, the Recipe: Adding an image video will give you everything you need to succeed.
+ 
+Enjoy!
