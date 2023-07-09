@@ -1,0 +1,22 @@
+Welcome to your Lesson 3 - Challenge 2
+Now that you have your boilerplate HTML in place, which includes the placeholder text. It is now time to start replacing the placeholder text with the required elements and your own recipe details . We are going to do this over the following challenges.
+For this challenge, you are going to add elements to the header and first section
+ 
+In particular, you will add:
+The recipe name
+The recipe description
+The ingredients heading
+The list of ingredients
+Result
+Your result should look similar to the image below
+
+Steps
+Remove the recipe name placeholder text and add an <h1> element to the <header> giving it your recipe name
+Remove the description placeholder text and add a <p> element to the <header> describing your recipe
+Remove the ingredients placeholder text and add a <h2> element to the first <section> . The heading text will be " ingredients"
+Remove the list placeholder text and add a <ul> element to the first <section>
+The <ul> should contain at least 4 <li> elements listing your recipe ingredients.
+Tips
+If you're stuck, the Recipe: Headings and lists video will give you everything you need to succeed.
+ 
+Enjoy!
